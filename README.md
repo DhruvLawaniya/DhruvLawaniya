@@ -1,5 +1,5 @@
 <b>Something to know about me :</b><br>
-Hi! I am Dhruv, I'm currently pursuing Computer Science Engineering at Bennett University. I have a fairly good understanding of Coding Languages 
+Hi! I am Dhruv, I'm currently pursuing Computer Science Engineering at Bennett University. I have been coding for the past 
 <br><b>The OS that I use :</b><br>
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)<br>
 <b>The IDEs I use :</b><br>
