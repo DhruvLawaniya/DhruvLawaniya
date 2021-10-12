@@ -8,3 +8,5 @@ I have a basic understanding of Python,Cpp,Java,Html,CSS,JavaScript,mySQL,Kotlin
 <b>My Stats :</b><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhruvLawaniya&show_icons=true&theme=tokyonight&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvLawaniya&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dhruvlawaniya)](https://github.com/anuraghazra/github-readme-stats)
