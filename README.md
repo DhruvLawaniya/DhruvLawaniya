@@ -9,4 +9,4 @@ I have a basic understanding of Python,Cpp,Java,Html,CSS,JavaScript,mySQL,Kotlin
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhruvLawaniya&show_icons=true&theme=tokyonight&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvLawaniya&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Dhruv's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dhruvlawaniya&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Dhruv's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dhruvlawaniya &theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
