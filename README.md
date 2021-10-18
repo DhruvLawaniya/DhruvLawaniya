@@ -17,7 +17,7 @@ Dart       3 mins          █▓░░░░░░░░░░░░░░░�
 Python     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
 ```
 <!--END_SECTION:waka-->
-<br>
+
 ## The OS that I use : <br>
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) <br>
 ## The IDEs I use : <br>
