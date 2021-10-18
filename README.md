@@ -9,4 +9,10 @@ I have a basic understanding of Python,Cpp,Java,Html,CSS,JavaScript,mySQL,Kotlin
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhruvLawaniya&show_icons=true&theme=tokyonight&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvLawaniya&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
+```text
+C++        40 mins         ███████████████████▓░░░░░   78.19 % 
+Markdown   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Dart       3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+Python     2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+```
 <!--END_SECTION:waka-->
