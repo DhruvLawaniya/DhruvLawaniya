@@ -10,6 +10,8 @@ I have a basic understanding of Python,Cpp,Java,Html,CSS,JavaScript,mySQL,Kotlin
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvLawaniya&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 ```text
+Week: 11 October, 2021 - 17 October, 2021
+
 C++        40 mins         ███████████████████▓░░░░░   78.19 % 
 Markdown   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
 Dart       3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
