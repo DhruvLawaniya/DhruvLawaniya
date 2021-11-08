@@ -9,12 +9,12 @@ I have a basic understanding of Python,Cpp,Java,Html,CSS,JavaScript,mySQL,Kotlin
 ## My Coding Stats for this week : <br>
 <!--START_SECTION:waka-->
 ```text
-Week: 31 October, 2021 - 06 November, 2021
+Week: 01 November, 2021 - 07 November, 2021
 
-Dart         2 hrs 15 mins   ██████████████▒░░░░░░░░░░   57.45 % 
-Other        1 hr 10 mins    ███████▒░░░░░░░░░░░░░░░░░   29.86 % 
-C++          21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-YAML         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Dart         4 hrs 5 mins    ████████████████████░░░░░   80.56 % 
+YAML         33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+C++          20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 ```
 <!--END_SECTION:waka-->
 
