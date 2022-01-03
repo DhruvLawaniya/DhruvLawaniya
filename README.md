@@ -9,7 +9,9 @@ I have a basic understanding of Python,Cpp,Java,Html,CSS,JavaScript,mySQL,Kotlin
 ## My Coding Stats for this week : <br>
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 27 December, 2021 - 02 January, 2022
+
+
 ```
 <!--END_SECTION:waka-->
 
