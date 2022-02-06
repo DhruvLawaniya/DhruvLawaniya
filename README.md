@@ -9,13 +9,13 @@ I have a basic understanding of Python,Cpp,Java,Html,CSS,JavaScript,mySQL,Kotlin
 ## My Coding Stats for this week : <br>
 <!--START_SECTION:waka-->
 ```text
-Week: 29 January, 2022 - 04 February, 2022
+Week: 30 January, 2022 - 05 February, 2022
 
-Other    20 hrs          ███████████████████████▓░   94.35 % 
-Dart     37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-C++      13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
-Python   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-YAML     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Dart     37 mins         █████████████░░░░░░░░░░░░   52.62 % 
+C++      13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.30 % 
+Python   11 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+YAML     4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Rust     3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 ```
 <!--END_SECTION:waka-->
 
