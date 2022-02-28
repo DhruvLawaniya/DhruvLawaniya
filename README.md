@@ -8,12 +8,15 @@ I have a basic understanding of Python,Cpp,Java,Html,CSS,JavaScript,mySQL,Kotlin
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvLawaniya&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ## My Coding Stats for this week : <br>
 <!--START_SECTION:waka-->
-```text
-From: 17 February, 2022 - To: 24 February, 2022
 
-Dart   52 mins         █████████████████████▓░░░   86.47 % 
-YAML   7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+Dart   52 mins         █████████████████████▓░░░   86.47 %
+YAML   7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
+Rust   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
+
 <!--END_SECTION:waka-->
 
 
