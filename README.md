@@ -10,12 +10,12 @@ I have a basic understanding of Python,Cpp,Java,Html,CSS,JavaScript,mySQL,Kotlin
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 May 2022 - To: 07 June 2022
+From: 01 June 2022 - To: 08 June 2022
 
-Dart            4 hrs 34 mins   ████████████████████████▓   98.04 %
-YAML            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-Text            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-AUTO_DETECTED   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Dart            4 hrs 44 mins   ████████████████████████▓   98.10 %
+YAML            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+Text            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+AUTO_DETECTED   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
