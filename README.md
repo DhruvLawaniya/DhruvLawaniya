@@ -10,9 +10,9 @@ I have a basic understanding of Python,Cpp,Java,Html,CSS,JavaScript,mySQL,Kotlin
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 August 2022 - To: 20 August 2022
+From: 14 August 2022 - To: 21 August 2022
 
-Other   1 hr 10 mins    █████████████████████████   99.82 %
+Other   1 hr 10 mins    █████████████████████████   99.94 %
 ```
 
 <!--END_SECTION:waka-->
