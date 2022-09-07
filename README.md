@@ -10,11 +10,11 @@ I have a basic understanding of Python,Cpp,Java,Html,CSS,JavaScript,mySQL,Kotlin
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 August 2022 - To: 05 September 2022
+From: 30 August 2022 - To: 06 September 2022
 
-Python   44 mins         █████████████████████▓░░░   86.00 %
-C++      7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Python   43 mins         ████████████████████░░░░░   80.62 %
+C++      10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.89 %
+JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
