@@ -10,7 +10,7 @@ I have a basic understanding of Python,Cpp,Java,Html,CSS,JavaScript,mySQL,Kotlin
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 November 2022 - To: 16 November 2022
+From: 10 November 2022 - To: 17 November 2022
 
 Python   6 mins          ██████████████▓░░░░░░░░░░   58.65 %
 C++      4 mins          █████████▒░░░░░░░░░░░░░░░   36.78 %
