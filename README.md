@@ -10,7 +10,11 @@ I have a basic understanding of Python,Cpp,Java,Html,CSS,JavaScript,mySQL,Kotlin
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 17 January 2023 - To: 24 January 2023
+
+Dart       2 hrs           ██████████████████████░░░   88.40 %
+HTML       14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
+Other      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 ```
 
 <!--END_SECTION:waka-->
