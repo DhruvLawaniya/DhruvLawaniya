@@ -10,14 +10,14 @@ I have a basic understanding of Python,Cpp,Java,Html,CSS,JavaScript,mySQL,Kotlin
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 January 2023 - To: 30 January 2023
+From: 24 January 2023 - To: 31 January 2023
 
-Dart             12 hrs 11 mins  █████████████████████▒░░░   85.87 %
-HTML             53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
-JSON             33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-YAML             15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-JavaScript       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Text             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Dart             10 hrs 11 mins  █████████████████████▒░░░   85.39 %
+HTML             38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+JSON             33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+YAML             15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+JavaScript       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Text             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
