@@ -10,10 +10,10 @@ I have a basic understanding of Python,Cpp,Java,Html,CSS,JavaScript,mySQL,Kotlin
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 January 2023 - To: 03 February 2023
+From: 28 January 2023 - To: 04 February 2023
 
-Dart   31 mins         ████████████████████████░   95.43 %
-Text   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+Dart   30 mins         █████████████████████████   99.74 %
+Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
