@@ -10,7 +10,7 @@ I have a basic understanding of Python,Cpp,Java,Html,CSS,JavaScript,mySQL,Kotlin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 July 2024 - To: 14 July 2024
+From: 08 July 2024 - To: 15 July 2024
 
 Dart             1 min           ████████████████████████░   96.61 %
 GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
