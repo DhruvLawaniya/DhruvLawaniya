@@ -10,13 +10,13 @@ I have a basic understanding of Python,Cpp,Java,Html,CSS,JavaScript,mySQL,Kotlin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2024 - To: 12 August 2024
+From: 06 August 2024 - To: 13 August 2024
 
-JavaScript   2 hrs 15 mins   █████████████░░░░░░░░░░░░   52.08 %
-Other        1 hr            █████▓░░░░░░░░░░░░░░░░░░░   23.18 %
-HTML         33 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.82 %
-JSON         29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+JavaScript   2 hrs 15 mins   █████████████████░░░░░░░░   67.75 %
+HTML         33 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.67 %
+JSON         29 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.74 %
+Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
