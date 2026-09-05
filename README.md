@@ -3,19 +3,3 @@ Hi! I am Dhruv, I'm currently pursuing Computer Science Engineering at Bennett U
 I have a basic understanding of Python,Cpp,Java,Html,CSS,JavaScript,mySQL,Kotlin and Dart. I will try and keep updating relevant information here :)
 <br>
 
-## My Stats : <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhruvLawaniya&show_icons=true&theme=tokyonight&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvLawaniya&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-## My Coding Stats for this week : <br>
-<!--START_SECTION:waka-->
-
-```txt
-From: 28 August 2026 - To: 04 September 2026
-
-Other   14 hrs                █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
-
-
-<br>
